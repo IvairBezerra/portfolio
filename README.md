@@ -8,7 +8,7 @@
 <sub>*Product Specialist* at Banco Santander Brasil</sub>
 
 
-**Background in:** SQL, Python, Machine Learning, Javascript, MongoDB
+**Background in:** SQL, SAS, Python, Machine Learning, Javascript, MongoDB
 
 **Links:**
 * [Blog](Soon!)
