@@ -5,7 +5,7 @@
 </p>
 
 # Ivair Bezerra
-<sub>*Product Specialist* at Banco Santander Brasil</sub>
+<sub>*Specialist* at Banco Santander Brasil</sub>
 
 
 **Background in:** SQL, SAS, Python, Machine Learning, Javascript, MongoDB
@@ -20,7 +20,6 @@
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
 * **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
 * **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
